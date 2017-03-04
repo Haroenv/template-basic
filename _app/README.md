@@ -47,14 +47,14 @@ $ npm run
 
 Here is complete list the the commands and their function
 
-- serve:dev - start dev server at [localhost:8080](https://localhost:8080)
+- serve:dev - start dev server at [localhost:8080](http://localhost:8080)
 - build:prod - builds your project to deploy to a server
 - start - a production server (run after `build:prod`)
 - test - runs unit tests, for now it will just run linting.
 - lint - runs standard against your code
 
-So for example you can run `npm serve:dev` to start a dev server. You can now see your
-app running at [localhost:8080](https://localhost:8080)
+So for example you can run `npm run serve:dev` to start a dev server. You can now see your
+app running at [localhost:8080](http://localhost:8080)
 
 ## Deploying
 
